@@ -1,0 +1,29 @@
+{
+  "name": "interface.server.dualshock3",
+  "version": "0.0.1",
+  "description": "Dualshock3 support for interface.server",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {
+    "dualshock-controller": "^0.6.7"
+  },
+  "scripts": {},
+  "keywords": [
+    "Dualshock",
+    "joystick"
+  ],
+  "author": "Charlie Roberts <charlie@charlie-roberts.com> (http://www.charlie-roberts.com/)",
+  "license": "MIT",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/charlieroberts/interface.server.gamepad.git"
+  },
+  "bugs": {
+    "url": "https://github.com/charlieroberts/interface.server.gamepad/issues"
+  }
+}
